@@ -15,7 +15,7 @@ from threading import Thread
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7237195855:AAGHaRgR-Se8Fha99dh9AqKGQz9WStk5CzU'
+TOKEN = '7179205102:AAFav4tWLqc883pjaG-nl3mWzsFvG16-59I'
 MONGO_URI = 'mongodb+srv://Bishal:Bishal@bishal.dffybpx.mongodb.net/?retryWrites=true&w=majority&appName=Bishal'
 FORWARD_CHANNEL_ID = -1004237896627
 CHANNEL_ID = -1004237896627
